@@ -39,6 +39,7 @@ ping                    = 8.8.8.8
 ping                    = 1.1.1.1
 
 max-load-1 = 24
+
 min-memory = 1
 
 watchdog-device = /dev/watchdog
