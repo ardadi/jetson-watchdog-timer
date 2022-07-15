@@ -59,7 +59,7 @@ watchdog-timeout=15
 WantedBy=multi-user.target
 save it and run this command:
 
-`sudo systemctl daemon-reload` 
+`sudo systemctl daemon-reload`
 `sudo systemctl enable watchdog`
 
 
