@@ -5,6 +5,7 @@
 `ls -al /dev/watchdog*`
 
 crw------- 1 root root  10, 130 May 19 07:09 /dev/watchdog
+
 crw------- 1 root root 253,   0 May 19 07:09 /dev/watchdog0
 
 `sudo apt-get install watchdog`
