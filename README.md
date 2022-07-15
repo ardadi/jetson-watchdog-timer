@@ -13,6 +13,7 @@ crw------- 1 root root 253,   0 May 19 07:09 /dev/watchdog0
 `ls -l /lib/systemd/system/`
 
 watchdog.service
+
 wd_keepalive.service
 
 `ls -al /etc/default/watchdog`
