@@ -35,6 +35,7 @@ wd_keepalive.service
 ### Uncomment the following lines or add them in the bottom of the files if you don’t find these lines in the above file.
 
 ping                    = 8.8.8.8
+
 ping                    = 1.1.1.1
 
 max-load-1 = 24
